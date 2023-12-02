@@ -12,4 +12,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Use Custom Action
-        uses: stefanini-backstag/domain-14@main
+        uses: stefanini-backstage/domain-14@main
